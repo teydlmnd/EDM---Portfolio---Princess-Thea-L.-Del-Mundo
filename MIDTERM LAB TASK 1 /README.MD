@@ -22,6 +22,6 @@ In this task we are give a raw data from excel to perform data cleaning and prep
 ![sample Output](images/1.png)
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (SEE screenshot)
-![step 4 output](task%201%20image/after.png)
+![step 4 output](images/2.png)
 ## Here's the Data model
 ![Data model I created](task%201%20image/data%20model.png)
