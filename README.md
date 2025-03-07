@@ -15,5 +15,3 @@ My long-term goal is to establish a strong foundation in Information Systems and
 
 ## My Projectslll
 Midterm Lab Task 1: [Data Cleaning and Preperation Using Excel](MIDTERM%20LAB%20TASK%201/READ%ME.md)
-)
-
