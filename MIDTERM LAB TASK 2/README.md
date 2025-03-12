@@ -26,11 +26,16 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
+- Sal by Role Type
 ![sample Output](images/roletype.jpeg)
+- Sal by Role Size ref
 ![sample Output](images/salbysize.png)
+- Sal by Size Role type
 ![sample Output](images/size.jpeg)
+- Sal by State Ref
 ![sample Output](images/salbystate.jpeg)
 ![sample Output](images/salbystate2.jpeg)
+- States
 ![sample Output](images/states.jpeg)
 
 
