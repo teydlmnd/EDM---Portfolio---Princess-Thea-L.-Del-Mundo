@@ -16,6 +16,11 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ## Step 2 Here's the screenshoot of my output before I started data cleaning using power query (See screenshot)
 
 ## Step 3 Here's the screenshoot of my output after I started data cleaning using power query (See screenshot)
+![sample Output](images/cleaned1.jpeg)
+![sample Output](images/cleaned2.jpeg)
+![sample Output](images/cleaned3.jpeg)
+![sample Output](images/cleaned4.jpeg)
+
 
 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
