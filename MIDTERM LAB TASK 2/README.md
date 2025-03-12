@@ -14,6 +14,8 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Handle negative values
 
 ## Step 2 Here's the screenshoot of my output before I started data cleaning using power query (See screenshot)
+![sample Output](images/uncleaned.jpeg)
+![sample Output](images/uncleaned1.jpeg)
 
 ## Step 3 Here's the screenshoot of my output after I started data cleaning using power query (See screenshot)
 ![sample Output](images/cleaned1.jpeg)
