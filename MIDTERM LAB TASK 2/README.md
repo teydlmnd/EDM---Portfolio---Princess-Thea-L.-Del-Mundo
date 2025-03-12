@@ -24,5 +24,13 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
+![sample Output](images/roletype.jpeg)
+![sample Output](images/salbysize.png)
+![sample Output](images/size.jpeg)
+![sample Output](images/salbystate.jpeg)
+![sample Output](images/salbystate2.jpeg)
+![sample Output](images/states.jpeg)
+
+
 
 ## Here's the screenshot of my Query Dependencies (See Screenshot)
