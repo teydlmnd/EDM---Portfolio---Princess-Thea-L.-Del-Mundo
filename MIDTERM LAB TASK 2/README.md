@@ -34,3 +34,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 ## Here's the screenshot of my Query Dependencies (See Screenshot)
+![sample Output](images/table.jpeg)
