@@ -20,11 +20,17 @@ appealing and presentable.
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
 ![Sample Output](images/beforee.png)
+
 Sal by Role Type
+
 ![Sample Output](images/roletype.png)
+
 Sal by Role Zise
+
 ![Sample Output](images/rolesize.png)
+
 Sal by State
+
 ![Sample Output](images/states.png)
 
 
