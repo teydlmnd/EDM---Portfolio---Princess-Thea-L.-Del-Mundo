@@ -20,11 +20,14 @@ appealing and presentable.
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
 ![sample Output](images/beforee.png)
-Sal by Role Type
+
+-Sal by Role Type
 ![Sample Output](images/roletype.png)
-Sal by Role Size
+
+-Sal by Role Size
 ![Sample Output](images/rolesize.png)
-Sal by State
+
+-Sal by State
 ![Sample Output](images/states.png)
 
 
