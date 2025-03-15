@@ -31,7 +31,7 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 
 -Sal by State
 
-![Sample Output](images/states.png)
+![Sample Output](images/state.png)
 
 
 Here's the Final Dashboard Output
