@@ -23,16 +23,16 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 
 Sal by Role Type
 
-![Sample Output](images/roletype.PNG)
+![Sample Output](images/roletype.png)
 
 Sal by Role Zise
 
-![Sample Output](images/rolesize.PNG)
+![Sample Output](images/rolesize.png)
 
 Sal by State
 
-![Sample Output](images/states.PNG)
+![Sample Output](images/states.png)
 
 
 Here's the Final Dashboard Output
-![Sample Output](images/dashboardd.PNG)
+![Sample Output](images/dashboardd.png)
