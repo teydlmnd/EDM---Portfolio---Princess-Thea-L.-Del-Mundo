@@ -19,20 +19,20 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 appealing and presentable.
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/beforee.png)
+![Sample Output](images/beforee.PNG)
 
 Sal by Role Type
 
-![Sample Output](images/roletype.png)
+![Sample Output](images/roletype.PNG)
 
 Sal by Role Zise
 
-![Sample Output](images/rolesize.png)
+![Sample Output](images/rolesize.PNG)
 
 Sal by State
 
-![Sample Output](images/states.png)
+![Sample Output](images/states.PNG)
 
 
 Here's the Final Dashboard Output
-![Sample Output](images/dashboardd.png)
+![Sample Output](images/dashboardd.PNG)
