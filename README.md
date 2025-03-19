@@ -16,6 +16,6 @@ My long-term goal is to establish a strong foundation in Information Systems and
 ## My Projectslll
 Midterm Lab Task 1: [Data Cleaning and Preperation using Excel](https://github.com/teydlmnd/EDM---Portfolio---Princess-Thea-L.-Del-Mundo/tree/main/MIDTERM%20LAB%20TASK%201%20)
 
-Midterm Lab Task 2: [Data Cleaning and Preperation Using Power Query](MIDTERM%20LAB%20TASK%202/README.md)
+Midterm Lab Task 2: [Data Cleaning and Preperation Using Power Query](https://github.com/teydlmnd/EDM---Portfolio---Princess-Thea-L.-Del-Mundo/blob/main/MIDTERM%20LAB%20TASK%202/README.md)
 
-Midterm Lab Task 3: [Creating PIVOT table and Dashboard](MIDTERM%20LAB%20TASK%203/README.md)
+Midterm Lab Task 3: [Creating PIVOT table and Dashboard](https://github.com/teydlmnd/EDM---Portfolio---Princess-Thea-L.-Del-Mundo/blob/main/MIDTERM%20LAB%20TASK%203/README.md)
