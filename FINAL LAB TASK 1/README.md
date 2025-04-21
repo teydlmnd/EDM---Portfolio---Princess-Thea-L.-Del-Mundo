@@ -16,7 +16,7 @@ CREATE TABLE employees_tbl (
 );
 ### EMPLOYEES TABLE STRUCTURE
 
-![sample Output](images/TASK1.PNG)
+![sample Output](images/employee_tbl.png)
 ---
 
 ### Departments Table
@@ -27,7 +27,7 @@ CREATE TABLE departments_tbl (
     department_name VARCHAR(255) NOT NULL
 );
 ### DEPARTMENTS TABLE STRUCTURE
-![sample Output](images/TASK2.PNG)
+![sample Output](images/dept_tbl.png)
 
 ---
 
@@ -41,7 +41,7 @@ CREATE TABLE employee_departments (
     FOREIGN KEY (department_id) REFERENCES departments_tbl(department_id)
 );
 ### EMPLOYEES_DEPARTMENTS TABLE STRUCTURE
-![sample Output](images/TASK3.PNG)
+![sample Output](images/emp_proj_tbl.png)
 
 ---
 
@@ -53,7 +53,7 @@ CREATE TABLE employee_projects_tbl (
     FOREIGN KEY (employee_id) REFERENCES employees_tbl(employee_id)
 );
 ### EMPLOYEES_PROJECTS TABLE STRUCTURE
-![sample Output](images/TASK4.PNG)
+![sample Output](images/emp_proj_tbl.png)
 
 ---
 
@@ -65,8 +65,8 @@ CREATE TABLE managers_tbl (
     FOREIGN KEY (employee_id) REFERENCES employees_tbl(employee_id)
 );
 ### MANAGERS TABLE STRUCTURE
-![sample Output](images/TASK5.PNG)
+![sample Output](images/manager_tbl.png)
 
 ### EER Diagram
 This diagram shows a visual representation of the relationships among the tables.
-![sample Output](images/ERD.PNG)
+![sample Output](images/erd.png)
