@@ -16,7 +16,7 @@ CREATE TABLE employees_tbl (
 );
 ### EMPLOYEES TABLE STRUCTURE
 
-![sample Output](employee_tbl.PNG)
+![sample Output](images/employee_tbl.PNG)
 ---
 
 ### Departments Table
