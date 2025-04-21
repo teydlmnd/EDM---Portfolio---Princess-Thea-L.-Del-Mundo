@@ -7,7 +7,7 @@ Here’s the screenshot of Query Statements (See screenshots)
 
 ![Sample Output](images/assignment_code.png)
 
-![Sample Output](images/submisssion_code.png)
+![Sample Output](images/submisssion.code.png)
 
 Here's the screenshot of Table Structure (See screenshots)
 
