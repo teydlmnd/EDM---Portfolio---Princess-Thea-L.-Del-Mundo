@@ -8,6 +8,7 @@ It includes employees, departments, managers, and their relationships with proje
 ### Employees Table
 
 This table stores employee records and their managers.
+
 '''sql
 CREATE TABLE employees_tbl (
     employee_id INT(5) UNIQUE AUTO_INCREMENT PRIMARY KEY,
@@ -24,6 +25,7 @@ CREATE TABLE employees_tbl (
 ### Departments Table
 
 This table contains information about each department within the company.
+
 '''sql
 CREATE TABLE departments_tbl (
     department_id INT(5) UNIQUE AUTO_INCREMENT PRIMARY KEY,
@@ -38,6 +40,7 @@ CREATE TABLE departments_tbl (
 ### Employee_Departments Table
 
 This table links employees to their departments, establishing many-to-many relationships.
+
 '''sql
 CREATE TABLE employee_departments (
     employee_id INT,
@@ -53,6 +56,7 @@ CREATE TABLE employee_departments (
 
 ### Task 4: Employee_Projects Table
 This table keeps track of projects assigned to each employee.
+
 '''sql
 CREATE TABLE employee_projects_tbl (
     employee_id INT,
@@ -67,6 +71,7 @@ CREATE TABLE employee_projects_tbl (
 
 ### Task 5: Managers Table
 This table stores manager information, linking them back to employee records.
+
 '''sql
 CREATE TABLE managers_tbl (
     manager_id INT UNIQUE AUTO_INCREMENT PRIMARY KEY,
