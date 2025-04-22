@@ -6,25 +6,27 @@ Fisrt, a command that create a database as the active database, so subsequent SQ
 CREATE DATABASE student_submissions;
 USE student_submissions;
 ### Student Query Statements
-CREATE TABLE students (
-    username VARCHAR(50) PRIMARY KEY
+CREATE TABLE student_tbl (
+username VARCHAR (50) PRIMARY KEY
 );
+
+
 ### Assignment Query Statements
-CREATE TABLE assignments (
-    shortname VARCHAR(50) PRIMARY KEY,
-    due_date DATE NOT NULL,
-    url VARCHAR(255)
+CREATE TABLE assignment_tbl (
+shortname VARCHAR (50) PRIMARY KEY,
+due_date DATE NOT NULL,
+url VARCHAR (255)
 );
 ### Submission Query Statements
-CREATE TABLE submission (
-    username VARCHAR(50),
-    shortname VARCHAR(50),
-    version INT,
-    submit_date DATE NOT NULL,
-    data TEXT,
-    PRIMARY KEY (username, shortname, version),
-    FOREIGN KEY (username) REFERENCES students(username),
-    FOREIGN KEY (shortname) REFERENCES assignments(shortname)
+CREATE TABLE submission_tbl (
+username VARCHAR (50), 
+shortname VARCHAR(50), 
+version INT,
+submit_date DATE NOT NULL, 
+data Text,
+PRIMARY KEY (username, shortname, version),
+FOREIGN KEY (username) REFERENCES student_tbl (username),
+FOREIGN KEY (shortname) REFERENCES assignment_tbl (shortname)
 );
 
 Here's the screenshot of Table Structure (See screenshots)
