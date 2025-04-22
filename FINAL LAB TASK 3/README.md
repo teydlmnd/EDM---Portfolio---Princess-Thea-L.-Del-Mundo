@@ -24,7 +24,7 @@ ALTER TABLE products_tbl
 ADD CONSTRAINT chk_price CHECK (price > 0);
 ```
 ### TASK 3
-sql
+```sql
 INSERT INTO products_tbl (product_name, price) VALUES
 ('Laptop', 999.99),
 ('Smartphone', 599.99),
@@ -33,7 +33,7 @@ INSERT INTO products_tbl (product_name, price) VALUES
 ('Mouse', 14.99),
 ('Desk Lamp', 24.99),
 ('Speakers', 9.99);
-
+```
 ### TASK 4
 ```sql
 ALTER TABLE products_tbl
