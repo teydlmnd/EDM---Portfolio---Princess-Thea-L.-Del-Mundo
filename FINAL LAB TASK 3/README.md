@@ -12,20 +12,21 @@ USE product_db;
 
 ### TASK 1
 ```sql
-CREATE TABLE products_tbl (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    product_name VARCHAR(100) NOT NULL,
-    price DECIMAL(10, 2)
+CREATE TABLE products_table (
+id INT AUTO_INCREMENT PRIMARY KEY,
+product_name VARCHAR (100) NOT NULL,
+price DECIMAL (10,2),
+CHECK (price > 0)
 );
 ```
 ### TASK 2
 ```sql
-ALTER TABLE products_tbl
+ALTER TABLE products_table
 ADD CONSTRAINT chk_price CHECK (price > 0);
 ```
 ### TASK 3
 ```sql
-INSERT INTO products_tbl (product_name, price) VALUES
+INSERT INTO products_table (product_name, price) VALUES
 ('Laptop', 999.99),
 ('Smartphone', 599.99),
 ('Tablet', 299.99),
@@ -33,13 +34,15 @@ INSERT INTO products_tbl (product_name, price) VALUES
 ('Mouse', 14.99),
 ('Desk Lamp', 24.99),
 ('Speakers', 9.99);
+
+SELECT * FROM products_table;
 ```
 ### TASK 4
 ```sql
-ALTER TABLE products_tbl
+ALTER TABLE products_table
 MODIFY product_name VARCHAR(120) NOT NULL;
 
-DESCRIBE products_tbl;
+DESCRIBE products_table;
 ```
 Here's the screenshot of whole Query Statements ture (See screenshots)
 
