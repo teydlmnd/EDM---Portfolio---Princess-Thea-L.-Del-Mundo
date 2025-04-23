@@ -47,11 +47,11 @@ DESCRIBE products_table;
 Here's the screenshot of whole Query Statements ture (See screenshots)
 
 ### Query Statements
-![Sample Output](images/product_db_1to4.png)
+![Sample Output](images/1.png)
 
 ### Product Table
   
-![Sample Output](images/product_tbl.png)
+![Sample Output](images/2.png)
 
 Here's the screenshot of ER Diagram or Relational Schema (See screenshots)
 
