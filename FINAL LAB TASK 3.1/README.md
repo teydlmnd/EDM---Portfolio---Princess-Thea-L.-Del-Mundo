@@ -92,3 +92,7 @@ SELECT * FROM courses ORDER BY students_enrolled ASC;
 ### TASK 5
 
 ![Sample Output](images/task5.png)
+
+## SQL copy of the database and table structures
+
+![Sample Output](images/code.png)
