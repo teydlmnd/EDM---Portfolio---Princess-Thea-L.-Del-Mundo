@@ -25,3 +25,5 @@ Finals Lab Task 1: [ Multi Level Company Database](FINAL%20LAB%20TASK%201)
 Finals Lab Task 2: [ Transforming ER Model to Relational Tables](FINAL%20LAB%20TASK%202)
 
 Finals Lab Task 3: [ Table Manipulation](FINAL%20LAB%20TASK%203)
+
+Finals Lab Task 3.1: [ Select Clause]([FINAL%20LAB%20TASK%203.1))
