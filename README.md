@@ -14,7 +14,7 @@ My long-term goal is to establish a strong foundation in Information Systems and
 - Elementary: Sapang Bato Elementary School
 
 ## My Projectslll
-Midterm Lab Task 1: [Data Cleaning and Preperation using Excel](MIDTERM%20LAB%20TASK%201)
+Midterm Lab Task 1: [Data Cleaning and Preperation using Excel](MIDTERM%20LAB20%TASK%201 )
 
 Midterm Lab Task 2: [Data Cleaning and Preperation Using Power Query](MIDTERM%20LAB%20TASK%202)
 
