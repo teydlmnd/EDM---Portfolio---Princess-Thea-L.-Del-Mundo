@@ -5,6 +5,7 @@ For this task, we are given initial query creates reusable views, procedures, an
 
 ### TASK 1
 ```sql
+
 CREATE VIEW Vendor AS
 SELECT vendors.V_CODE, vendors.V_NAME, products.P_DESCRIPT, products.P_INDATE
 FROM vendors
@@ -15,6 +16,7 @@ SELECT * FROM Vendor;
 
 ### TASK 2
 ```sql
+
 CREATE VIEW Product AS
 SELECT P_DESCRIPT, P_PRICE
 FROM products
@@ -24,6 +26,7 @@ SELECT * FROM Product;
 
 ### TASK 3
 ```sql
+
 CREATE VIEW Product_2 AS
 SELECT SUM(P_ONHAND * P_PRICE) AS total_price
 FROM Products
@@ -46,6 +49,7 @@ SELECT * FROM vendors;
 
 ### TASK 5
 ```sql
+
 DELIMITER // 
 CREATE FUNCTION get_products_by_vendor(v_code INT, v_state VARCHAR(50))
 RETURNS TEXT DETERMINISTIC
