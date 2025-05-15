@@ -13,7 +13,7 @@ JOIN products ON vendors.V_CODE = products.V_CODE
 WHERE products.P_INDATE >= '2002-01-01';
 
 SELECT * FROM Vendor;
-
+```
 ### TASK 2
 ```sql
 
@@ -23,7 +23,7 @@ FROM products
 WHERE P_PRICE BETWEEN 100 AND 150;
 
 SELECT * FROM Product;
-
+```
 ### TASK 3
 ```sql
 
@@ -33,7 +33,7 @@ FROM Products
 WHERE V_CODE IN (21344, 23119 AND 24288);
 
 SELECT * FROM Product_2;
-
+```
 ### TASK 4
 ```sql
 DELIMITER //
@@ -46,7 +46,7 @@ END //
 DELIMITER ;
 
 SELECT * FROM vendors;
-
+```
 ### TASK 5
 ```sql
 
@@ -67,7 +67,7 @@ BEGIN
 END //
 DELIMITER ;
 
-
+```
 ### It is how to run the function after creating it.
 SELECT get_products(21344, 'KY');
 
