@@ -2,9 +2,9 @@
 For this task, we are given initial query in order to used and develop hands-on skills in managing and querying data using MongoDB.
 
 ## Here’s the Query Statements
-
-First, select the database you want to work with in MongoDB.
 ```sql
+First, select the database you want to work with in MongoDB.
+
 use mongo_practice
 ```
 ### Create Database
@@ -20,7 +20,7 @@ use mongo_practice
 ![Sample Output](images/4.PNG)
  
 ### Query Find
-``
+
 db.movies.find()
 
 ![Sample Output](images/find.1.PNG)
@@ -61,8 +61,11 @@ db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
 ```
 ### Update Documents
 ```
+
 db.movies.update({_id:ObjectId("5c9f98e5e5c2dfe9b3729bfe")}, {$set:{synopsis:"A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."}})
+
 db.movies.update({_id:ObjectId("5c9fa42ae5c2dfe9b3729c03")}, {$set:{synopsis:"The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."}})
+
 db.movies.update({_id:ObjectId("5c9f983ce5c2dfe9b3729bfc")}, {$push:{actors:"Samuel L. Jackson"}})
 
 ![Sample Output](images/update.PNG)
