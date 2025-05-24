@@ -77,7 +77,7 @@ db.movies.find({$or:[{synopsis:{$regex:"dwarves"}}, {synopsis:{$regex:"hobbit"}}
 db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]})
 
 ![Sample Output](images/search.png)
-```
+``
 ### Delete Documents
 ``
 db.movies.remove({_id:ObjectId("5c9f992ae5c2dfe9b3729c00")})
