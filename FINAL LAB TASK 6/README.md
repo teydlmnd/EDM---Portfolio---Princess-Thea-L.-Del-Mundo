@@ -18,9 +18,8 @@ use mongo_practice
 ![Sample Output](images/3.PNG)
 
 ![Sample Output](images/4.PNG)
-
+ 
 ### Query Find
-```sql
 
 db.movies.find()
 
@@ -55,7 +54,6 @@ db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
 ![Sample Output](images/2010.2.png)
 
 
-```
 ### Update Documents
 ```sql
 db.movies.update({_id:ObjectId("5c9f98e5e5c2dfe9b3729bfe")}, {$set:{synopsis:"A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."}})
