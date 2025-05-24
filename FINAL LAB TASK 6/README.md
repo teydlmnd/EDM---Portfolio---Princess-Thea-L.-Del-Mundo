@@ -2,8 +2,8 @@
 For this task, we are given initial query in order to used and develop hands-on skills in managing and querying data using MongoDB.
 
 ## Here’s the Query Statements
-```sql
 First, select the database you want to work with in MongoDB.
+```sql
 
 use mongo_practice
 ```
@@ -20,6 +20,7 @@ use mongo_practice
 ![Sample Output](images/4.PNG)
  
 ### Query Find
+``
 
 db.movies.find()
 
