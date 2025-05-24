@@ -29,19 +29,27 @@ db.movies.find()
 ![Sample Output](images/find.3.PNG)
 
 db.movies.find({writer:”Quentin Tarantino”})
-![Sample Output](images/QUENTIN.PNG)
+![Sample Output](images/quentin.png)
+![Sample Output](images/quentin2.png)
+
 
 db.movies.find({actors:”Brad Pitt”})
-![Sample Output](images/BRADD.PNG)
+![Sample Output](images/bradd.png)
+![Sample Output](images/bradd2.png)
+
 
 db.movies.find({franchise:”The Hobbit”})
-![Sample Output](images/HOBBIT.PNG)
+![Sample Output](images/hobbit.png)
 
 db.movies.find({year:{$gt:”1990”, $lt:”2000”}})
-![Sample Output](images/2000.PNG)
+![Sample Output](images/1990.png)
 
 db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
-![Sample Output](images/2010.PNG)
+![Sample Output](images/2010.png
+![Sample Output](images/2010.1.png)
+![Sample Output](images/2010.2.png)
+
+
 ```
 ### Update Documents
 ```sql
