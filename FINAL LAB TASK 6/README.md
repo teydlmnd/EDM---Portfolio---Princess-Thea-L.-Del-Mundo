@@ -20,7 +20,7 @@ use mongo_practice
 ![Sample Output](images/4.PNG)
  
 ### Query Find
-
+``
 db.movies.find()
 
 ![Sample Output](images/find.1.PNG)
@@ -58,7 +58,7 @@ db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
 
 ![Sample Output](images/2010.2.png)
 
-
+```
 ### Update Documents
 ```
 db.movies.update({_id:ObjectId("5c9f98e5e5c2dfe9b3729bfe")}, {$set:{synopsis:"A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."}})
@@ -68,19 +68,20 @@ db.movies.update({_id:ObjectId("5c9f983ce5c2dfe9b3729bfc")}, {$push:{actors:"Sam
 ![Sample Output](images/update.PNG)
 ```
 ### Text Search
-```
+``
 db.movies.find({synopsis:{$regex:"Bilbo"}})
 db.movies.find({synopsis:{$regex:"Gandalf"}})
 db.movies.find({$and:[{synopsis:{$regex:"Bilbo"}}, {synopsis:{$not:/Gandalf/}}]})
 db.movies.find({$or:[{synopsis:{$regex:"dwarves"}}, {synopsis:{$regex:"hobbit"}}]})
 db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]})
 
-![Sample Output](images/SEARCH.PNG)
+![Sample Output](images/search.png)
 ```
 ### Delete Documents
-
+```
 db.movies.remove({_id:ObjectId("5c9f992ae5c2dfe9b3729c00")})
 db.movies.remove({_id:ObjectId("5c9f9936e5c2dfe9b3729c01")})
 
 ![Sample Output](images/remove.PNG)
 
+```
