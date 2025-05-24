@@ -2,9 +2,9 @@
 For this task, we are given initial query in order to used and develop hands-on skills in managing and querying data using MongoDB.
 
 ## Here’s the Query Statements
-```sql
+
+First, select the database you want to work with in MongoDB.
 use mongo_practice
-```
 ### Create Database
 
 ![Sample Output](images/FIRST.PNG)
