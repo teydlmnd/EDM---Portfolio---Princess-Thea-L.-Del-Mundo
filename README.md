@@ -29,3 +29,6 @@ Finals Lab Task 3: [ Table Manipulation](FINAL%20LAB%20TASK%203)
 Finals Lab Task 3.1: [ Select Clause](FINAL%20LAB%20TASK%203.1)
 
 Final Lab Task 5: [Using SQL Views and Stored Procedures and Stored Functions](FINAL%20LAB%20TASK%205)
+
+Final Lab Task 6: [ MongoDB Practice](FINAL%20LAB%20TASK%206)
+
