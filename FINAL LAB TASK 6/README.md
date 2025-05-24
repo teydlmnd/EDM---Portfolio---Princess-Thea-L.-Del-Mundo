@@ -30,11 +30,13 @@ db.movies.find()
 
 db.movies.find({writer:”Quentin Tarantino”})
 ![Sample Output](images/quentin.png)
+
 ![Sample Output](images/quentin2.png)
 
 
 db.movies.find({actors:”Brad Pitt”})
 ![Sample Output](images/bradd.png)
+
 ![Sample Output](images/bradd2.png)
 
 
@@ -45,8 +47,10 @@ db.movies.find({year:{$gt:”1990”, $lt:”2000”}})
 ![Sample Output](images/1990.png)
 
 db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
-![Sample Output](images/2010.png
+![Sample Output](images/2010.png)
+
 ![Sample Output](images/2010.1.png)
+
 ![Sample Output](images/2010.2.png)
 
 
