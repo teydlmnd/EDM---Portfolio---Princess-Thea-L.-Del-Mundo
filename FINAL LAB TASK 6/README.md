@@ -21,7 +21,9 @@ use mongo_practice
 
 ### Query Find
 ```sql
+
 db.movies.find()
+
 ![Sample Output](images/find.1.PNG)
 
 ![Sample Output](images/find.2.PNG)
@@ -32,7 +34,6 @@ db.movies.find({writer:”Quentin Tarantino”})
 ![Sample Output](images/quentin.png)
 
 ![Sample Output](images/quentin2.png)
-
 
 db.movies.find({actors:”Brad Pitt”})
 ![Sample Output](images/bradd.png)
