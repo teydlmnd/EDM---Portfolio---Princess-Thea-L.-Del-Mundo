@@ -1,11 +1,7 @@
 # EDM-Portfolio-Princess-Thea-L.-Del-Mundo
 This portfolio will contain copies of my Enterprise Data Management Lab Activities/Exercise
 ## About me
-I’m a 19-year-old first-year student pursuing a Bachelor of Science in Information Systems who is eager and willing to learn. As I begin my journey in this field, I am focused on building my foundation in coding and problem-solving while continuously improving my skills in C and Python. 
-
-Outside of academics, I love listening to artists like Mac Ayres, Jeff Bernat, and Daniel Caesar. I also enjoy listening to R&B, reggae, and mostly old music because of their timeless sound and relaxing vibe. Music helps me stay inspired, especially when I’m studying or reflecting. I enjoy going on long walks and rides because they give me time to think and recharge. Watching horror movies is another interest of mine—I like the thrill and how they challenge my imagination. As an ambivert, I value both my quiet moments, like listening to music or taking peaceful walks, and meaningful social interactions where I can connect and share experiences with others.
-
-Throughout my studies, I’m excited to dive deeper into key areas like systems analysis, databases, and programming to understand how various components of technology interconnect to drive progress. I thrive in collaborative environments where I can exchange ideas with my peers and contribute to team projects, as I believe that sharing knowledge and working together pushes the boundaries of what we can accomplish.
+I’m a 19-year-old first-year student pursuing a Bachelor of Science in Information Systems who is eager and willing to learn. I love listening to artists like Mac Ayres, Jeff Bernat, and Daniel Caesar. I also enjoy R&B, reggae, and mostly old music because of their timeless sound and relaxing vibe. Music keeps me inspired, especially when I’m studying or reflecting. I enjoy going on long walks and rides to think and recharge, and I like watching horror movies for the thrill and imagination they bring. As an ambivert, I value both my quiet moments and meaningful social interactions where I can connect and share experiences with others.
 
 ## Education
 - College: City College of Angeles
