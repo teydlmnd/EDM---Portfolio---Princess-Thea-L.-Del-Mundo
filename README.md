@@ -4,7 +4,7 @@ This portfolio will contain copies of my Enterprise Data Management Lab Activiti
 I’m a 19-year-old first-year student pursuing a Bachelor of Science in Information Systems who is eager and willing to learn. I love listening to artists like Mac Ayres, Jeff Bernat, and Daniel Caesar. I also enjoy R&B, reggae, and mostly old music because of their timeless sound and relaxing vibe. Music keeps me inspired, especially when I’m studying or reflecting. I enjoy going on long walks and rides to think and recharge, and I like watching horror movies for the thrill and imagination they bring. As an ambivert, I value both my quiet moments and meaningful social interactions where I can connect and share experiences with others.
 
 ## Education
-- College: City College of Angeles
+- College: Currently taking Bachelor of Science in Information Systems (BSIS) at City College of Angeles (CCA)
 - Senior High School: Sapangbato National High School - Senior High School
 - High School: Sapangbato National High School
 - Elementary: Sapang Bato Elementary School
